@@ -14,6 +14,7 @@ This project explores the relationship between **Foreign Direct Investments (FDI
 project/
 ├── data/                  # Raw and processed datasets
 ├── report/                # Final report
+├── shiny/                 # Shiny plot
 ├── notebooks              # Jupyter notebooks
 ├── Presentation.pdf       # Project Presentation
 ├── README.md              # Project documentation
@@ -49,7 +50,7 @@ To replicate the analysis:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-link
+   git clone https://github.com/davitsargsyan0/finvesttaxpayers
    
 ##Authors
 
